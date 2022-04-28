@@ -1,0 +1,11 @@
+package fxml;
+
+public class LoginControlador {
+	
+	
+	public void entrar() {
+		
+		System.out.println("Entrar");
+	}
+
+}
